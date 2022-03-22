@@ -7,3 +7,4 @@ In this repository you will see the most important education sites, courses, boo
 * Cloud Computing
 * Data Analytics
 * Data Engineering
+* Algorithmic Trading
