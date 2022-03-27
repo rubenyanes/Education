@@ -31,3 +31,4 @@ The following list includes the most useful websites to learn and practice for f
 ## Books
 
 The following list includes the most useful books to learn and practice (without any specific order):
+* [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
