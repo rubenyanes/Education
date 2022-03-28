@@ -14,6 +14,7 @@ The following list includes specific great courses of more concrete subject (wit
 The following list includes the most useful websites to learn and practice for free (without any specific order):
 * [Towards Data Science](https://towardsdatascience.com/six-spark-exercises-to-rule-them-all-242445b24565)
 * [DataBricks](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/6244269837918943/3546103630347710/4066658260255490/latest.html)
+* [Spark by Examples](https://sparkbyexamples.com/)
 
 ## Books
 The following list includes the most useful books to learn and practice (without any specific order):
